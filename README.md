@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 ![1](./img/1.jpg)
+=======
+![1](https://github.com/mimuing/ai_itc_3rd/img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함).pdf)
+![1](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함).pdf)
+>>>>>>> 7f7ade2bf20dd5558769a837a2c30d401817b4c5
 ![2](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함)%202.pdf)
 ![3](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함)%203.pdf)
 ![4](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함)%204.pdf)
