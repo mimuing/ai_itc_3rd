@@ -1,4 +1,4 @@
-![1](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함).pdf)
+![1](./img/1.jpg)
 ![2](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함)%202.pdf)
 ![3](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함)%203.pdf)
 ![4](./img/AI·ICT%20창의자율과제_1차평가자료_SEIZE%20ON%20FUTURE(드래그함)%204.pdf)
